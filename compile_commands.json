@@ -1,0 +1,230 @@
+[
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\CDC.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\CDC.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\CDC.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial0.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial0.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial0.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial1.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial1.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial1.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial2.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial2.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial2.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial3.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\HardwareSerial3.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\HardwareSerial3.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\IPAddress.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\IPAddress.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\IPAddress.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\PluggableUSB.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\PluggableUSB.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\PluggableUSB.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Print.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Print.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\Print.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Stream.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Stream.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\Stream.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Tone.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\Tone.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\Tone.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\USBCore.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\USBCore.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\USBCore.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\FrameworkArduino\\WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WInterrupts.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WInterrupts.c",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\WInterrupts.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WMath.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WMath.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\WMath.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WString.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\WString.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\WString.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\abi.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\abi.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\abi.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\FrameworkArduino\\hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\hooks.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\hooks.c",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\hooks.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\main.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\main.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\main.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\FrameworkArduino\\new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\new.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\new.cpp",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\new.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\FrameworkArduino\\wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring.c",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\wiring.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\FrameworkArduino\\wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_analog.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_analog.c",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\wiring_analog.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\FrameworkArduino\\wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_digital.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_digital.c",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\wiring_digital.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -mmcu=atmega328p -x assembler-with-cpp -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs -c -o .pio\\build\\mobile2\\FrameworkArduino\\wiring_pulse.S.o C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.S",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.S",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\wiring_pulse.S.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\FrameworkArduino\\wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_pulse.c",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\wiring_pulse.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\FrameworkArduino\\wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_shift.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino\\wiring_shift.c",
+        "output": ".pio\\build\\mobile2\\FrameworkArduino\\wiring_shift.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\lib1cb\\Wire\\Wire.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src\\Wire.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src\\Wire.cpp",
+        "output": ".pio\\build\\mobile2\\lib1cb\\Wire\\Wire.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-gcc.exe -o .pio\\build\\mobile2\\lib1cb\\Wire\\utility\\twi.c.o -c -std=gnu11 -fno-fat-lto-objects -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src\\utility\\twi.c",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src\\utility\\twi.c",
+        "output": ".pio\\build\\mobile2\\lib1cb\\Wire\\utility\\twi.c.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\libd48\\SSD1306Ascii\\SSD1306Ascii.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs .pio\\libdeps\\mobile2\\SSD1306Ascii\\src\\SSD1306Ascii.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": ".pio\\libdeps\\mobile2\\SSD1306Ascii\\src\\SSD1306Ascii.cpp",
+        "output": ".pio\\build\\mobile2\\libd48\\SSD1306Ascii\\SSD1306Ascii.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\libf08\\SPI\\SPI.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src\\SPI.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "C:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src\\SPI.cpp",
+        "output": ".pio\\build\\mobile2\\libf08\\SPI\\SPI.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\OledHAL.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\OledHAL.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\OledHAL.cpp",
+        "output": ".pio\\build\\mobile2\\src\\OledHAL.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\SX1262HAL.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\SX1262HAL.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\SX1262HAL.cpp",
+        "output": ".pio\\build\\mobile2\\src\\SX1262HAL.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\main.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\main.cpp",
+        "output": ".pio\\build\\mobile2\\src\\main.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\mesh_router.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\mesh_router.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\mesh_router.cpp",
+        "output": ".pio\\build\\mobile2\\src\\mesh_router.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\node_anchor.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\node_anchor.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\node_anchor.cpp",
+        "output": ".pio\\build\\mobile2\\src\\node_anchor.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\node_mobile.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\node_mobile.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\node_mobile.cpp",
+        "output": ".pio\\build\\mobile2\\src\\node_mobile.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\node_relay.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\node_relay.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\node_relay.cpp",
+        "output": ".pio\\build\\mobile2\\src\\node_relay.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\routing_table.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\routing_table.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\routing_table.cpp",
+        "output": ".pio\\build\\mobile2\\src\\routing_table.cpp.o"
+    },
+    {
+        "command": "C:\\Users\\adiap\\.platformio\\packages\\toolchain-atmelavr\\bin\\avr-g++.exe -o .pio\\build\\mobile2\\src\\snips_config.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -flto -ffunction-sections -fdata-sections -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60200 -DARDUINO_AVR_NANO -DNODE_TYPE_MOBILE -DNODE_ID=0x21 -DHAS_OLED -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Isrc -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\SPI\\src -I.pio\\libdeps\\mobile2\\SSD1306Ascii\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\libraries\\Wire\\src -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\cores\\arduino -IC:\\Users\\adiap\\.platformio\\packages\\framework-arduino-avr\\variants\\eightanaloginputs src\\snips_config.cpp",
+        "directory": "C:\\Users\\adiap\\OneDrive\\Desktop\\SNIPS\\SNIPS-Scalable_Node_Interfacing_Processing_System\\firmware\\SNIPS_V3",
+        "file": "src\\snips_config.cpp",
+        "output": ".pio\\build\\mobile2\\src\\snips_config.cpp.o"
+    }
+]
